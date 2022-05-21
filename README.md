@@ -1,5 +1,5 @@
 # ConcatCsv
-## Concatinate all csv files in a folder into one file. With the same or different columns / column order.
+### Concatinate all csv files in a folder into one file. With the same or different columns / column order.
 
 Sometimes you need to do something, that at first glance looks super easy. But when proves itself difficult and hard to google. This was the case trying to append / concatinate several hundreds of csv files, I had in the same folder, into one file. Simple solutions like cat terminal command did not work, as the column count and order differed.
 
